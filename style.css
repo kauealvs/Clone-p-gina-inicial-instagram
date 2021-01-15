@@ -17,4 +17,24 @@ body{
 
 .instagram-wraper{
     display: flex;
+    justify-content: start;
+    align-items: center;
+    width: 60%;
+    width: 100vh;
+}
+
+.instagram-phone{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+
+}
+
+.instagram-phone img{
+    height: 50rem;
+}
+
+.instagram-login .group img{
+    width: 60%;
 }
